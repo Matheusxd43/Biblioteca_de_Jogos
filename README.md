@@ -43,10 +43,9 @@ cd Biblioteca_de_Jogos
 ```bash
 ./mvnw spring-boot:run
 
+---
 ##👤 Desenvolvedor
 
 **Nome: Matheus Xavier**
 
 **GitHub: https://github.com/Matheusxd43**
-
-
