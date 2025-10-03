@@ -1,3 +1,8 @@
+##👤 Desenvolvedor
+
+Nome: Matheus Rodrigues
+GitHub: https://github.com/Matheusxd43
+
 # 🎮 Biblioteca de Jogos Pessoais
 
 [![Java](https://img.shields.io/badge/Java-21-blue?logo=java)](https://www.java.com/)
@@ -42,5 +47,5 @@ cd Biblioteca_de_Jogos
 
 ```bash
 ./mvnw spring-boot:run
-
 ---
+
